@@ -1,9 +1,8 @@
-
 {
   "name": "cra-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://juanchoque1206.github.io/porfolio",
+  "homepage": "https://juanchoque1206.github.io/porfolio/",
   "dependencies": {
     "framer-motion": "^10.16.1",
     "lucide-react": "^0.293.0",
@@ -24,5 +23,17 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
