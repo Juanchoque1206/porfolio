@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Juanchoque1206/porfolio/static/css/main.a479e568.css",
+    "main.js": "/Juanchoque1206/porfolio/static/js/main.d92e71e5.js",
+    "index.html": "/Juanchoque1206/porfolio/index.html",
+    "main.a479e568.css.map": "/Juanchoque1206/porfolio/static/css/main.a479e568.css.map",
+    "main.d92e71e5.js.map": "/Juanchoque1206/porfolio/static/js/main.d92e71e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a479e568.css",
+    "static/js/main.d92e71e5.js"
+  ]
+}
